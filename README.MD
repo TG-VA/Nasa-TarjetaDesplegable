@@ -15,5 +15,5 @@ Project developed with HTML and vanilla CSS.
 It's a display card, that in the first page shows the logo of the company and in the second page shows your relevant information or what you want to show. It can be used as an interactive business card, because it is attractive to users.
 
 ###  ✒️ Autor 
-- [Tristan Venegas](http://https://github.com/TristanVenegas "Tristan Venegas") - Front end Developer.
+- [Tristan Venegas](https://github.com/TG-VA "Tristan Venegas") - Front end Developer.
 
